@@ -1,0 +1,21 @@
+img{
+width:200px;
+height:200px;
+}
+
+body{
+    background-color: rgb(13, 151, 175);
+    border: 10px solid rgba(8, 8, 8, 0.493); 
+    height: 100vh; 
+    justify-content:center;
+    text-align: left;
+    margin: 100px;
+    font-size: 30px;
+}
+section{
+
+    justify-content: first baseline;
+    text-align: center; 
+    color: rgb(13, 151, 175);
+    background-color: rgb(0, 0, 0);
+}
